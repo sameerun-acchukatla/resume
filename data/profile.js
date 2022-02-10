@@ -17,6 +17,7 @@ const profileData = {
         { title: 'Github', src: 'https://github.com/sameerun-acchukatla' },
         { title: 'LinkedIn', src: 'https://www.linkedin.com/in/sameerun-acchukatla-a33869196' },
         { title: 'HTML Assignment', src: 'https://github.com/sameerun-acchukatla/HTMLAssignment01' }
+        //{ title: 'HTML Assignment', src: 'https://github.com/sameerun-acchukatla/HTMLAssignment01' }
     ],
     education: [
 
