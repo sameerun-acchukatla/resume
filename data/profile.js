@@ -15,7 +15,8 @@ const profileData = {
     links: [
         { title: 'Codepen', src: 'https://codepen.io/sameerun' },
         { title: 'Github', src: 'https://github.com/sameerun-acchukatla' },
-        { title: 'LinkedIn', src: 'https://www.linkedin.com/in/sameerun-acchukatla-a33869196' }
+        { title: 'LinkedIn', src: 'https://www.linkedin.com/in/sameerun-acchukatla-a33869196' },
+        { title: 'HTML Assignment', src: 'https://github.com/sameerun-acchukatla/HTMLAssignment01' }
     ],
     education: [
 
